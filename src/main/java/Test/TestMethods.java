@@ -186,7 +186,6 @@ public class TestMethods {
 	}//end clearOption
 	
 	//verify that the user can make new search through the result page
-	//verify that the search box is cleared by the X button
 	@Test(priority = 6)
 	public void resultPageSearch(){
 		
